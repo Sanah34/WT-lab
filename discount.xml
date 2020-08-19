@@ -1,108 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="https://github.com/Sanah34/WT-lab/blob/master/travels.xsl" type="text/xsl"?>
+<!-- <?xml-stylesheet href="C:\Users\DELL\Documents\Travels\travels.xsl" type="text/xsl"?>-->
 <Travels>
   <Address>
-    <description
-  xlink:type="simple"
-  xlink:href="https://www.justdial.com/Delhi/Tours-And-Travels/nct-245789001"
-  xlink:show="new">
-  Get details of all the discounts available
-  </description>
     <CountryName>Canada</CountryName>
     <Title>Package for family</Title>
     <Discount>15 %</Discount>
-    <Price>10.30</Price>
+    <Price>7.80</Price>
 <Stay> 4 nights 5 days </Stay>
   </Address>
   <Address>
-    <description
-  xlink:type="simple"
-  xlink:href="https://www.justdial.com/Delhi/Tours-And-Travels/nct-245789001"
-  xlink:show="new">
-  Get details of all the discounts available
-  </description>
     <CountryName>Algeria</CountryName>
     <Title>Package for family</Title>
     <Discount>10 %</Discount>
-    <Price>11.90</Price>
+    <Price>8.20</Price>
 <Stay> 5 nights 6 days </Stay>
   </Address>
 <Address>
-    <description
-  xlink:type="simple"
-  xlink:href="https://www.justdial.com/Delhi/Tours-And-Travels/nct-245789001"
-  xlink:show="new">
-  Get details of all the discounts available
-  </description>
     <CountryName>Brazil</CountryName>
     <Title>Package for solo trip</Title>
     <Discount>15 %</Discount>
-    <Price>5.10</Price>
+    <Price>7.90</Price>
 <Stay> 4nights 5 days </Stay>
   </Address>
 <Address>
-    <description
-  xlink:type="simple"
-  xlink:href="https://www.justdial.com/Delhi/Tours-And-Travels/nct-245789001"
-  xlink:show="new">
-  Get details of all the discounts available
-  </description>
     <CountryName>France</CountryName>
     <Title>Package for couple</Title>
     <Discount>25 %</Discount>
-    <Price>8.10</Price>
+    <Price>8.90</Price>
 <Stay> 5 nights 6 days </Stay>
   </Address>
 <Address>
-    <description
-  xlink:type="simple"
-  xlink:href="https://www.justdial.com/Delhi/Tours-And-Travels/nct-245789001"
-  xlink:show="new">
-  Get details of all the discounts available
-  </description>
     <CountryName>Greece</CountryName>
     <Title>Package for family</Title>
     <Discount>15 %</Discount>
-    <Price>5.10</Price>
+    <Price>9.90</Price>
 <Stay> 6 nights 7 days </Stay>
   </Address>
 <Address>
-    <description
-  xlink:type="simple"
-  xlink:href="https://www.justdial.com/Delhi/Tours-And-Travels/nct-245789001"
-  xlink:show="new">
-  Get details of all the discounts available
-  </description>
     <CountryName>Switzerland</CountryName>
     <Title>Package for couple</Title>
     <Discount>25 %</Discount>
-    <Price>5.80</Price>
+    <Price>9.90</Price>
 <Stay> 5 nights 6 days </Stay>
   </Address>
 <Address>
-    <description
-  xlink:type="simple"
-  xlink:href="https://www.justdial.com/Delhi/Tours-And-Travels/nct-245789001"
-  xlink:show="new">
-  Get details of all the discounts available
-  </description>
     <CountryName>Singapore</CountryName>
     <Title>Package for couple</Title>
     <Discount>15 %</Discount>
-    <Price>7.90</Price>
+    <Price>10.20</Price>
 <Stay> 7 nights 8 days </Stay>
   </Address>
 <Address>
-    <description
-  xlink:type="simple"
-  xlink:href="https://www.justdial.com/Delhi/Tours-And-Travels/nct-245789001"
-  xlink:show="new">
-  Get details of all the discounts available
-  </description>
     <CountryName>Spain</CountryName>
     <Title>Package for solo trip</Title>
     <Discount>15 %</Discount>
-    <Price>5.80</Price>
+    <Price>10.90</Price>
 <Stay> 5 nights 6 days </Stay>
   </Address>
 </Travels>
