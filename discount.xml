@@ -57,4 +57,53 @@
     <Price>10.90</Price>
 <Stay> 5 nights 6 days </Stay>
   </Address>
+<Address>
+    <CountryName>Afganistan</CountryName>
+    <Title>Package for family</Title>
+    <Discount>25 %</Discount>
+    <Price>9.10</Price>
+<Stay> 6 nights 5 days </Stay>
+  </Address>
+<Address>
+    <CountryName>Andora</CountryName>
+    <Title>Package for family</Title>
+    <Discount>25 %</Discount>
+    <Price>8.10</Price>
+<Stay> 6 nights 5 days </Stay>
+  </Address>
+<Address>
+    <CountryName>Malaysia</CountryName>
+    <Title>Package for couple</Title>
+    <Discount>15 %</Discount>
+    <Price>8.10</Price>
+<Stay> 3 nights 4 days </Stay>
+  </Address>
+<Address>
+    <CountryName>New Zealand</CountryName>
+    <Title>Package for solo</Title>
+    <Discount>10 %</Discount>
+    <Price>7.20</Price>
+<Stay> 2 nights 3 days </Stay>
+  </Address>
+<Address>
+    <CountryName>Pakistan</CountryName>
+    <Title>Package for family</Title>
+    <Discount>15 %</Discount>
+    <Price>9.20</Price>
+<Stay> 3 nights 4 days </Stay>
+  </Address>
+<Address>
+    <CountryName>Cuba</CountryName>
+    <Title>Package for couple</Title>
+    <Discount>25 %</Discount>
+    <Price>8.20</Price>
+<Stay> 3 nights 4 days </Stay>
+  </Address>
+<Address>
+    <CountryName>Philippines</CountryName>
+    <Title>Package for solo</Title>
+    <Discount>10 %</Discount>
+    <Price>6.20</Price>
+<Stay> 2 nights 3 days </Stay>
+  </Address>
 </Travels>
