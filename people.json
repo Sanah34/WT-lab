@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "countryName": "France",
+        "discount": "10%"
+    },
+    {
+        "id": "2",
+        "countryName": "India",
+        "discount": "30%"
+    },
+    {
+        "id": "3",
+        "countryName": "Malaysia",
+        "discount": "20%"
+    },
+ {
+        "id": "4",
+        "countryName": "Bahrain",
+        "discount": "20%"
+  },
+{
+"id": "5",
+        "countryName": "Nepal",
+        "discount": "10%"
+  },
+{
+"id": "6",
+        "countryName": "Brazil",
+        "discount": "30%"
+  },
+{
+"id": "7",
+        "countryName": "Niger",
+        "discount": "10%"
+  },
+{
+"id": "8",
+        "countryName": "China",
+        "discount": "20%"
+  },
+{
+"id": "9",
+        "countryName": "Canada",
+        "discount": "40%"
+  },
+{
+"id": "10",
+        "countryName": "Cuba",
+        "discount": "50%"
+  }
+]
